@@ -1,4 +1,4 @@
-# Multimodal Contrastive Learning
+# Trident: tri-modal molecular representation learning with taxonomic annotations and local correspondence
 
 Molecular representation learning with SMILES, text, HTA, and functional groups.
 
